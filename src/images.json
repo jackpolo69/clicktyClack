@@ -2,83 +2,83 @@
     {
         "id": 1,
         "name": "Biggie",
-        "src": "https://www.billboard.com/files/styles/article_main_image/public/media/notorious-big-jan-18-billboard-1548.jpg",
+        "src": "https://bombburritos.files.wordpress.com/2014/03/tumblr-jm-qqvyz-do-1629048492.jpg",
         "clicked": false
     },
     {
         "id": 2,
         "name": "Jay Z",
-        "src": "https://www.billboard.com/files/styles/article_main_image/public/media/notorious-big-jan-18-billboard-1548.jpg",
+        "src": "https://i.ytimg.com/vi/odThhIA2gUM/maxresdefault.jpg",
         "clicked": false
 
     },
     {
         "id": 3,
         "name": "Nas",
-        "src": "https://pixel.nymag.com/imgs/daily/vulture/2017/01/31/31-nas.w710.h473.2x.jpg",
+        "src": "https://i.scdn.co/image/ba18d0131343ca84cb9ab0eb31f56745302bc78f",
         "clicked": false
 
     },
     {
         "id": 4,
         "name": "Mos Def",
-        "src": "https://img.discogs.com/Sgm48QV3-XwY_2GImU5fJWc2ALw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-5648-1504767680-9060.jpeg.jpg",
+        "src": "https://i.scdn.co/image/d39cd5769332fb51014cc1cc9934c8890fcd49f7",
         "clicked": false
 
     },
     {
         "id": 5,
         "name": "BIG King",
-        "src": "https://i.pinimg.com/originals/45/24/31/4524312c929e86ab8ab23f5ccfd60bff.jpg",
+        "src": "https://media-cdn.tripadvisor.com/media/photo-s/11/72/82/0f/biggie-mural.jpg",
         "clicked": false
 
     },
     {
         "id": 6,
-        "name": "frank-roger",
-        "src": "https://pre00.deviantart.net/4b67/th/pre/f/2017/344/7/a/1frankreynolds_by_brooklynguy27-dbwcneb.jpg",
+        "name": "Lil Kim",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvcUiJcqMUuIZ1AG2t-neUtPIPGvSHHJsYAG1wxOIeTwtwcoN4",
         "clicked": false
 
     },
     {
         "id": 7,
-        "name": "Deandra-hold-on",
-        "src": "https://i.pinimg.com/originals/4e/09/22/4e09222f63cbd4927df0bbb4b9c2d49d.jpg",
+        "name": "50 Cent",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLswWLIORmF8j_OqrFUTbmJhq_dV8NAcy15wHtqgHdKMFM5nv9-g",
         "clicked": false
 
     },
     {
         "id": 8,
-        "name": "Deandra-bird-woman",
-        "src": "https://static1.squarespace.com/static/5204240de4b01a70fcae0cfc/t/56d86dea2fe131758d05712e/1457024492064/",
+        "name": "Mary J Blige",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbgxK20RItvxTzhPskxxl3YAnj9_ctUexa1sy7y6JN5nDakGp8",
         "clicked": false
 
     },
     {
         "id": 9,
-        "name": "Mac-sleeveless",
-        "src": "http://cdn1-www.mandatory.com/assets/mandatory/legacy/2013/02/man_file_1042952_fat-mac2.jpg",
+        "name": "Puffy",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl1rmExcTtonyEwfNh0_i5BbKX4I0peMT85YWK-PmfPALwlnOszQ",
         "clicked": false
 
     },
     {
         "id": 10,
-        "name": "Mac's-mom",
-        "src": "http://www.indiewire.com/wp-content/uploads/2017/01/iasip_1205_0993r.jpg",
+        "name": "Busta Rhymes",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThz8QI0383Z-8eUtBSRyGYsS_HTW-20mzfMyoBvH3d0SM9lnKcTg",
         "clicked": false
 
     },
     {
         "id": 11,
-        "name": "the-waitress",
-        "src": "https://vignette.wikia.nocookie.net/itsalwayssunny/images/7/7f/1x4_Waitress_money.png/revision/latest?cb=20110814043756",
+        "name": "Kid Capri",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVJ53W9tf9MoNu8UHsh4_WxnfDUogkKXuBtTsAk4ns_uk_cGLLTg",
         "clicked": false
 
     },
     {
         "id": 12,
-        "name": "Frank-puzzled",
-        "src": "http://images.fanpop.com/images/image_uploads/IASIP-it-27s-always-sunny-in-philadelphia-76111_362_500.jpg",
+        "name": "J Lo",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1y6VFU0b6o42Nm3e2GfgbAKmcHsYl3roaS_tNvzbkwQA3Uryw",
         "clicked": false
 
     }
